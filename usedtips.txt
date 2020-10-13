@@ -1,0 +1,2 @@
+steps:
+1. npm init (for package.json to manifest the scss)
